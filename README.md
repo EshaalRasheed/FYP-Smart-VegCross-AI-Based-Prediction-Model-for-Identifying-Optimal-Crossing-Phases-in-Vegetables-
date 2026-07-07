@@ -1,0 +1,2 @@
+# FYP-Smart-VegCross-AI-Based-Prediction-Model-for-Identifying-Optimal-Crossing-Phases-in-Vegetables-
+Developed an AI-powered Android application for vegetable growth stage detection using deep learning (CNN, EfficientNetV2B0, and MobileNetV3). The app classifies crop images, recommends optimal crossing stages, stores data locally with SQLite, and supports breeders and researchers in improving decision-making through automation.
